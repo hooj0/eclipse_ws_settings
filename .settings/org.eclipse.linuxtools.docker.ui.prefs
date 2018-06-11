@@ -1,0 +1,7 @@
+dockerComposeInstallDir=E\:\\Docker Toolbox
+dockerMachineInstallDir=E\:\\Docker Toolbox\\
+eclipse.preferences.version=1
+filterWithLabels=false
+showAllContainers=true
+showAllImages=false
+vmDriverInstallDir=E\:\\VirtualBox

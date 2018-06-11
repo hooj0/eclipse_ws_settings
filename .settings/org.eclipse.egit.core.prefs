@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=D\:\\work_private\\jdk8-features\\.git;D\:\\work_private\\code-generator\\.git;D\:\\workspace_fabric\\fabric-sdk-java\\.git;D\:\\workspace_docker\\docker-java\\.git;D\:\\work_private\\guava-example\\.git;D\:\\work_private\\spider-photo\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\work_private\\jdk8-features\\.git;D\:\\work_private\\code-generator\\.git;fabric-sdk-java\\.git;D\:\\workspace_docker\\docker-java\\.git;D\:\\work_private\\guava-example\\.git;D\:\\work_private\\spider-photo\\.git;
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+eclipse.preferences.version=1
