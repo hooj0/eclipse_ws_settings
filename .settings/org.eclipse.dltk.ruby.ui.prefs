@@ -1,4 +1,8 @@
+DLTK_keyword=128,0,64
 eclipse.preferences.version=1
+hoverModifierMasks=org.eclipse.dltk.ui.BestMatchHover;0;org.eclipse.dltk.ruby.internal.debug.ui.RubyDebugHover;0;org.eclipse.dltk.ui.ProblemHover;0;org.eclipse.dltk.ui.DocumentationHover;0;org.eclipse.dltk.ui.ScriptSourceHover;131072;org.eclipse.dltk.ui.AnnotationHover;0;
+hoverModifiers=org.eclipse.dltk.ui.BestMatchHover;0;org.eclipse.dltk.ruby.internal.debug.ui.RubyDebugHover;\!0;org.eclipse.dltk.ui.ProblemHover;\!0;org.eclipse.dltk.ui.DocumentationHover;\!0;org.eclipse.dltk.ui.ScriptSourceHover;Shift;org.eclipse.dltk.ui.AnnotationHover;\!0;
+org.eclipse.ruby.Templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 sourceHoverBackgroundColor=255,255,225
 sourceHoverBackgroundColor.SystemDefault=true
 useAnnotationsPrefPage=true
