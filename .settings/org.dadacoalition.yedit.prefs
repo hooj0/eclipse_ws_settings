@@ -1,6 +1,8 @@
 colorCommentPreference=0,128,0
 colorConstantPreferences=255,0,0
+colorDefaultPreference=64,0,0
 colorDocumentPreference=0,128,0
-colorKeyPreference=0,0,255
+colorKeyPreference=128,0,0
+colorScalarPreference=64,0,128
 eclipse.preferences.version=1
 org.dadacoalition.yedit.template=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
